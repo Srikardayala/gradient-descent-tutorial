@@ -37,3 +37,12 @@ This tutorial explores the fundamentals of Gradient Descent, a core optimization
 Ensure the following libraries are installed:
 ```bash
 pip install numpy matplotlib
+
+---
+## **Running the Code Locally**
+
+To run the Python scripts locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/gradient-descent-tutorial.git
