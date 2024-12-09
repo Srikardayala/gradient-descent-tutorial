@@ -48,3 +48,8 @@ To run the Python scripts locally, follow these steps:
    git clone https://github.com/yourusername/gradient-descent-tutorial.git
    cd gradient-descent-tutorial
    python code/gradient_descent_visualization.py
+
+## License
+
+This project is licensed under the MIT License. See the full license details in the [LICENSE](https://github.com/Srikardayala/gradient-descent-tutorial/blob/main/LICENSE) file.
+
